@@ -577,6 +577,7 @@ img {
   }
 
   .header__cart {
+    width: 150px;
     grid-column: 3/-1;
     -ms-grid-column-align: end;
     justify-self: end;
